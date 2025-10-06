@@ -16,13 +16,13 @@ body {
 h1 {
   font-weight: 800;
   text-decoration: underline;
-  margin: 0 0 0.5rem 0;
+  margin: 0 0 0.5rem 0;   /* added some specific margin sizes for some more different decoration. */
 }
 
 h2 {
   font-weight: 700;
   margin: 1.25rem 0 0.5rem;
-  border-bottom: 3px solid #e11d48;
+  border-bottom: 3px solid #e11d48;/* added some new different borders and paddings, some things we also haven't done in class yet. */
   padding-bottom: 0.25rem;
 }
 
@@ -45,7 +45,7 @@ img {
 
 ul, ol {
   padding-left: 1.25rem;
-  background-color: #ffffff;
+  background-color: #ffffff;  /*i added some borders and paddings to space out the different elements. */
   border: 1px solid #f3e8ff;
   border-radius: 8px;
   padding-top: 0.5rem;
